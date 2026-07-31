@@ -1,9 +1,7 @@
 # Srivatsav Kannan
 
-I build research prototypes at the intersection of medical AI, computer vision,
-clinical decision support, and model fairness. My public repositories emphasize
-reproducible setup, honest evaluation, and clear boundaries between research,
-applications, APIs, and historical work.
+I do work at the intersection of medical AI, computer vision,
+clinical decision support, and model fairness. 
 
 ## Featured projects
 
