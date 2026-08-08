@@ -30,16 +30,5 @@ NightHacks project and is not a medical device.
 
 - [Code, documentation, and verification](https://github.com/srivatsav-kannan/zebra-rare-disease-triage)
 
-## Repository map
-
-Repository names follow a role-based convention:
-
-- `*-research` — canonical research, experiments, and evaluation
-- `*-api`, `*-mobile`, `*-website`, `*-dashboard` — deployable components
-- `*-archive-*` — preserved historical work, not the canonical implementation
-
-Additional clinical research projects remain private while data rights,
-publication readiness, and security are reviewed. Public does not mean
-clinically validated; each repository documents its own evidence and limits.
 
 [LinkedIn](https://www.linkedin.com/in/srivatsav-kannan-2bb543200/)
